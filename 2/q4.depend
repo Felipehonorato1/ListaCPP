@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574775139 source:c:\users\felipe honorato\desktop\roteiro\q4\src\pessoa.cpp
+	"Pessoa.h"
+	<string>
+	<iostream>
+
+1574775077 c:\users\felipe honorato\desktop\roteiro\q4\include\pessoa.h
+	<string>
+

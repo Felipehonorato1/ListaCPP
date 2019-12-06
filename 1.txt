@@ -1,0 +1,8 @@
+A) Classes são agrupamentos de objetos que possuem de acordo com a definição do programador métodos e atributos específicos. Assim,
+os objetos tem tudo que as classe que os instanciou possui.
+
+B) Construtor serve para inicializar um objeto de determinada classe. Pode ser utilizado para atribuir valores passados na instanciação do 
+objeto para os atributos dele ou simplesmente zerar na ausência de parametros - no caso do construtor default atribuindo os atributos a 0.
+
+C)A partir do encapsulamento conseguimos garantir maior segurança aos atributos de uma classe, impedindo assim que alterações indesejadas 
+sejam feitas a partir de uma região fora da classe / familia.

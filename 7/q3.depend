@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574733232 source:c:\users\felipe honorato\desktop\roteiro\q3\src\empregado.cpp
+	"Empregado.h"
+	<string>
+
+1574733181 c:\users\felipe honorato\desktop\roteiro\q3\include\empregado.h
+	<string>
+	<iostream>
+
+1574733315 source:c:\users\felipe honorato\desktop\roteiro\q3\main.cpp
+	<iostream>
+	<string>
+	"Empregado.h"
+

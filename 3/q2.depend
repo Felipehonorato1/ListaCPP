@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574717530 source:c:\users\felipe honorato\desktop\roteiro\q2\src\invoice.cpp
+	"Invoice.h"
+	<string>
+	<stdio.h>
+
+1574716631 c:\users\felipe honorato\desktop\roteiro\q2\include\invoice.h
+	<string>
+
+1574717857 source:c:\users\felipe honorato\desktop\roteiro\q2\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Invoice.h"
+
